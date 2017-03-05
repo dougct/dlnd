@@ -2,6 +2,8 @@
 
 _This repository contains the descriptions and solutions to the projects of the Udacity DLND nanodegree program._
 
+The repository with all the exercises and project descriptions is here: [https://github.com/udacity/deep-learning](https://github.com/udacity/deep-learning).
+
 ## Project Descriptions
 
 ### Project 1: Your First Neural Network
