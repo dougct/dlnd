@@ -1,6 +1,6 @@
 # Deep Learning Foundations Nanodegree
 
-_This repository contains the descriptions and solutions to the projects of the Udacity DLND nanodegree program._
+_This repository contains the descriptions and solutions to the projects of the Udacity Deep Learning Foundations nanodegree program._
 
 The repository with all the exercises and project descriptions is here: [https://github.com/udacity/deep-learning](https://github.com/udacity/deep-learning).
 
